@@ -1,0 +1,32 @@
+PYTHON (-DAY2-16-02-24)
+======
+python is a high level,interpreted and dynamicall typed programming language.
+
+HIGH LEVEL :-
+       high level means it doesnt have hard syntaxes and it is easy to understand that who knows the english .when we see the program 1st time also we can mostly understand because it looks like a normal english.
+so it is called as high level programming language.
+
+INTERPRETED :-
+          interpreted means the lines of the coded will be executed one after another . it doesnt executes the code concorrently.
+
+DYNAMICALLY TYPED :-
+          here no need to specify the type of the variable . so based on the requirement we can assign any type of value to any type of variable .python inbuilty having extensive libraries. 
+in case of static type we have define the data type before only . and that variable can holds only that type of value.
+
+VARIABLES :-
+        here the variable is nothing but a container which is having a name to the container in case of python we can store any kind of value to any variable because it is dynamically typed.
+variable will store the assigned value and the variable will stored memory in that variable memory the value will stored. and that memory will have the address that will be having on name of variable
+variable types are
+*integer
+*float
+*string
+
+TYPE CONVERSIONS: 
+           converting one data type to another data type.python having two type of conversions they are,
+*implicit type conversion 
+*explicit type conversion
+
+implicit type conversion:-
+             implicit means in python we dnt declare the data type of a variable internally it checks the assigned value and based on the value it considers the data type.
+explicit type conversion:-
+             when we want to convert the assigned data type to any another data type.then it is called as the explicit type conversion which is done by the programmer.
